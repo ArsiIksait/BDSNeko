@@ -1,0 +1,7 @@
+#BDSNekoAdmin的SocketServer地址
+SocketAddress: "127.0.0.1:8000"
+#订阅的事件列表，订阅的事件触发后将会被本插件转发到QQ群中
+SubscribeEvent:
+  ServerOnlineAndStop: true
+  PlayerJoinAndQuit: true
+  PlayerChatAndCommand: true

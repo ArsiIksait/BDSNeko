@@ -1,0 +1,7 @@
+name: BDSNeko
+main: ArsiIksait.Nukkit.Plugin.BDSNeko.Main
+version: 0.0.1
+api: [1.0.14]
+
+author: ArsiIksait
+description: BDS QQ Group Admin Neko Bot
